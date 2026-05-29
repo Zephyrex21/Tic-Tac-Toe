@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic Tac Toe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ─── Animated orbs ─── -->
+  <div class="orbs">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+    <div class="orb orb-4"></div>
+  </div>
+
+  <!-- ─── App ─── -->
+  <div class="app">
+
+    <!-- Header -->
+    <header class="header">
+      <div class="branding">
+        <span class="title">Tic Tac Toe</span>
+        <span class="subtitle">2 player classic</span>
+      </div>
+      <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">🌙</button>
+    </header>
+
+    <!-- Scoreboard -->
+    <div class="scoreboard">
+      <div class="score-card score-card--x">
+        <div class="score-label">Player X</div>
+        <div class="score-val" id="sX">0</div>
+      </div>
+      <div class="score-card score-card--draw">
+        <div class="score-label">Draw</div>
+        <div class="score-val" id="sD">0</div>
+      </div>
+      <div class="score-card score-card--o">
+        <div class="score-label">Player O</div>
+        <div class="score-val" id="sO">0</div>
+      </div>
+    </div>
+
+    <!-- Status -->
+    <div class="status-pill" id="statusPill">
+      <span class="status-dot status-dot--x" id="sDot"></span>
+      <span id="sTxt">Player X's Turn</span>
+    </div>
+
+    <!-- Board -->
+    <div class="board-wrap" id="boardWrap">
+      <div class="board-glass" id="boardGlass">
+        <div class="board-grid" id="boardGrid">
+          <!-- 9 cells injected by JS -->
+        </div>
+      </div>
+    </div>
+
+    <!-- New Game -->
+    <div class="btn-slot">
+      <button class="new-game-btn" id="newGameBtn">↺ &nbsp;New Game</button>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+```

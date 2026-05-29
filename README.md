@@ -12,9 +12,9 @@ A sleek and modern **Tic Tac Toe** game built using **HTML, CSS, and JavaScript*
 
 # 📸 Preview
 
-```md
+
 ![Preview](./assets/preview.png)
-```
+
 
 ---
 

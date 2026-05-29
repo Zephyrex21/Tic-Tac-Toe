@@ -1,16 +1,16 @@
-# ✨ Tic Tac Toe Web App
+# Tic Tac Toe Web App
 
 A sleek and modern **Tic Tac Toe** game built using **HTML, CSS, and JavaScript** featuring glassmorphism UI, animated SVG effects, score tracking, and dark/light theme support.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-🔗 https://yourusername.github.io/tic-tac-toe-webapp/
+🔗 https://tic-tac-toe-zephyr.netlify.app/
 
 ---
 
-# 📸 Preview
+# Preview
 
 
 ![Preview](./assets/preview.png)
@@ -18,21 +18,21 @@ A sleek and modern **Tic Tac Toe** game built using **HTML, CSS, and JavaScript*
 
 ---
 
-# 🚀 Features
+# Features
 
-- 🎨 Modern Glassmorphism UI
-- 🌙 Dark / Light Theme Toggle
-- ✨ Animated SVG X & O Marks
-- 🏆 Live Score Tracking
-- 🎯 Win-Line Animation
-- 📱 Fully Responsive Design
-- 🌌 Floating Background Particles
-- ⚡ Smooth Hover & Transition Effects
-- 🧠 Clean Vanilla JavaScript Logic
+- Modern Glassmorphism UI
+- Dark / Light Theme Toggle
+- Animated SVG X & O Marks
+- Live Score Tracking
+- Win-Line Animation
+- Fully Responsive Design
+- Floating Background Particles
+- Smooth Hover & Transition Effects
+- Clean Vanilla JavaScript Logic
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 - HTML5
 - CSS3
@@ -41,7 +41,7 @@ A sleek and modern **Tic Tac Toe** game built using **HTML, CSS, and JavaScript*
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 tic-tac-toe-webapp/
@@ -53,9 +53,9 @@ tic-tac-toe-webapp/
 
 ---
 
-# ⚡ Getting Started
+# Getting Started
 
-## 1️⃣ Clone the Repository
+## 1️. Clone the Repository
 
 ```bash
 git clone https://github.com/Zephyrex21/Tic-Tac-Toe.git
@@ -63,7 +63,7 @@ git clone https://github.com/Zephyrex21/Tic-Tac-Toe.git
 
 ---
 
-## 2️⃣ Open Project Folder
+## 2️. Open Project Folder
 
 ```bash
 cd tic-tac-toe-webapp
@@ -71,7 +71,7 @@ cd tic-tac-toe-webapp
 
 ---
 
-## 3️⃣ Run the Project
+## 3. Run the Project
 
 Simply open:
 
@@ -85,7 +85,7 @@ OR use the VS Code Live Server extension.
 
 ---
 
-# 🎮 Gameplay
+# Gameplay
 
 - Player X starts first
 - Players take turns placing marks
@@ -96,7 +96,7 @@ OR use the VS Code Live Server extension.
 ---
 
 
-# 🤝 Contributing
+# Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
@@ -104,13 +104,13 @@ Fork the repo and create a pull request 🚀
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Made with ❤️ by Saurabh Raj Shekhar
 

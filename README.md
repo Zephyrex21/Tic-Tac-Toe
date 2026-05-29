@@ -18,41 +18,6 @@ A sleek and modern **Tic Tac Toe** game built using **HTML, CSS, and JavaScript*
 
 ---
 
-# Features
-
-- Modern Glassmorphism UI
-- Dark / Light Theme Toggle
-- Animated SVG X & O Marks
-- Live Score Tracking
-- Win-Line Animation
-- Fully Responsive Design
-- Floating Background Particles
-- Smooth Hover & Transition Effects
-- Clean Vanilla JavaScript Logic
-
----
-
-# Tech Stack
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- SVG Animations
-
----
-
-# Project Structure
-
-```bash
-tic-tac-toe-webapp/
-│
-├── index.html
-├── README.md
-└── assets/ (optional)
-```
-
----
-
 # Getting Started
 
 ## 1️. Clone the Repository
@@ -82,6 +47,29 @@ index.html
 in your browser.
 
 OR use the VS Code Live Server extension.
+
+---
+
+# Features
+
+- Modern Glassmorphism UI
+- Dark / Light Theme Toggle
+- Animated SVG X & O Marks
+- Live Score Tracking
+- Win-Line Animation
+- Fully Responsive Design
+- Floating Background Particles
+- Smooth Hover & Transition Effects
+- Clean Vanilla JavaScript Logic
+
+---
+
+# Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- SVG Animations
 
 ---
 
